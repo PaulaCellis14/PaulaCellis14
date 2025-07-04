@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey everyone!  
+I'm Paula Cellis, a 28-year-old Fullstack student with a focus on Artificial Intelligence, currently studying at Infinity School. I'm passionate about new ideas, overcoming challenges, and making technology more accessible to everyone.
 
-<!--
-**PaulaCellis14/PaulaCellis14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Areas of Interest  
+- Frontend Development (HTML, CSS, JavaScript)  
+- Backend Development (Python)  
+- Artificial Intelligence  
+- Innovation and technology for social impact
 
-Here are some ideas to get you started:
+🛠️ Technologies  
+Frontend: HTML, CSS, JavaScript  
+Backend: Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning  
+- Deepening my Python skills as part of my Fullstack with AI course  
+- Exploring fullstack development concepts and real-world project building
+
+📫 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/paula-cellis-de-melo-morais/)
+
